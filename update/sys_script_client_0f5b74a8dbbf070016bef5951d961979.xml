@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="sys_script_client">
+    <sys_script_client action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <applies_extended>false</applies_extended>
+        <condition/>
+        <description>Auto update Utility Company Field with City of OKC if Water is selected as Utility Type.</description>
+        <field>utility_type</field>
+        <global>true</global>
+        <messages/>
+        <name>AutoFill Utility Company on Utility Type</name>
+        <order/>
+        <script><![CDATA[function onChange(control, oldValue, newValue, isLoading, isTemplate) {
+	if (isLoading){
+		return;
+	}
+   //Type appropriate comment here, and begin script below
+	g_form.clearValue('utility_company');
+	
+	var ut = g_form.getValue('utility_type');
+		if (ut == "water"){
+			g_form.setValue('utility_company', "City of OKC");
+		}
+		if (ut == "electric"){
+			g_form.setValue('utility_company', "OG&E");
+		}
+		if (ut == "gas"){
+			g_form.setValue('utility_company', "ONG");
+		}
+		if (ut == "steam"){
+			g_form.setValue('utility_company', "OUHSC Steam & Chill");
+		}
+		if (ut == "chiller"){
+			g_form.setValue('utility_company', "OUHSC Steam & Chill");
+		}
+}]]></script>
+        <sys_class_name>sys_script_client</sys_class_name>
+        <sys_created_by>CWARD2ADMIN</sys_created_by>
+        <sys_created_on>2018-01-18 05:46:56</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_domain>global</sys_domain>
+        <sys_id>0f5b74a8dbbf070016bef5951d961979</sys_id>
+        <sys_mod_count>78</sys_mod_count>
+        <sys_name>AutoFill Utility Company on Utility Type</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="UHAT Energy Utilities" source="x_uhaa2_uhat_energ">ea8b0a6adbaf438016bef5951d96197c</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="UHAT Energy Utilities">ea8b0a6adbaf438016bef5951d96197c</sys_scope>
+        <sys_update_name>sys_script_client_0f5b74a8dbbf070016bef5951d961979</sys_update_name>
+        <sys_updated_by>CWARD2ADMIN</sys_updated_by>
+        <sys_updated_on>2018-01-19 18:38:41</sys_updated_on>
+        <table>x_uhaa2_uhat_energ_water_utility_bills</table>
+        <type>onChange</type>
+        <ui_type>10</ui_type>
+        <view/>
+    </sys_script_client>
+</record_update>

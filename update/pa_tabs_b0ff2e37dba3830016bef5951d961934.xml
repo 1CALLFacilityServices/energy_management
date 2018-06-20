@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="pa_tabs">
+    <pa_tabs action="INSERT_OR_UPDATE">
+        <canvas_page/>
+        <name>Utilities</name>
+        <page display_value="PA Utilities">3cff2e37dba3830016bef5951d961933</page>
+        <sys_class_name>pa_tabs</sys_class_name>
+        <sys_created_by>CWARD2ADMIN</sys_created_by>
+        <sys_created_on>2018-01-16 06:19:33</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_domain>global</sys_domain>
+        <sys_id>b0ff2e37dba3830016bef5951d961934</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Utilities</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="UHAT Energy Utilities" source="x_uhaa2_uhat_energ">ea8b0a6adbaf438016bef5951d96197c</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="UHAT Energy Utilities">ea8b0a6adbaf438016bef5951d96197c</sys_scope>
+        <sys_update_name>pa_tabs_b0ff2e37dba3830016bef5951d961934</sys_update_name>
+        <sys_updated_by>CWARD2ADMIN</sys_updated_by>
+        <sys_updated_on>2018-01-16 06:19:33</sys_updated_on>
+    </pa_tabs>
+</record_update>

@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="meter_type" table="x_uhaa2_uhat_energ_utility_meters" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>meter_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Chill</label>
+            <language>en</language>
+            <name>x_uhaa2_uhat_energ_utility_meters</name>
+            <sequence/>
+            <sys_created_by>CWARD2ADMIN</sys_created_by>
+            <sys_created_on>2018-01-13 00:40:23</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>6a858e3edba3c38016bef5951d9619ec</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>CWARD2ADMIN</sys_updated_by>
+            <sys_updated_on>2018-01-13 00:40:23</sys_updated_on>
+            <value>chill</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>meter_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Electric</label>
+            <language>en</language>
+            <name>x_uhaa2_uhat_energ_utility_meters</name>
+            <sequence/>
+            <sys_created_by>CWARD2ADMIN</sys_created_by>
+            <sys_created_on>2018-01-13 00:40:31</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>8c954a3adba3c38016bef5951d961986</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>CWARD2ADMIN</sys_updated_by>
+            <sys_updated_on>2018-01-13 00:40:31</sys_updated_on>
+            <value>electric</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>meter_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Gas</label>
+            <language>en</language>
+            <name>x_uhaa2_uhat_energ_utility_meters</name>
+            <sequence/>
+            <sys_created_by>CWARD2ADMIN</sys_created_by>
+            <sys_created_on>2018-01-13 00:41:20</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>94c5cebedba3c38016bef5951d961948</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>CWARD2ADMIN</sys_updated_by>
+            <sys_updated_on>2018-01-13 00:41:20</sys_updated_on>
+            <value>gas</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>meter_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Steam</label>
+            <language>en</language>
+            <name>x_uhaa2_uhat_energ_utility_meters</name>
+            <sequence/>
+            <sys_created_by>CWARD2ADMIN</sys_created_by>
+            <sys_created_on>2018-01-13 00:40:15</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>7a758abedba3c38016bef5951d9619fb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>CWARD2ADMIN</sys_updated_by>
+            <sys_updated_on>2018-01-13 00:40:15</sys_updated_on>
+            <value>steam</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>meter_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Water Domestic</label>
+            <language>en</language>
+            <name>x_uhaa2_uhat_energ_utility_meters</name>
+            <sequence/>
+            <sys_created_by>CWARD2ADMIN</sys_created_by>
+            <sys_created_on>2018-01-13 00:40:53</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>5da58a3edba3c38016bef5951d9619ff</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>CWARD2ADMIN</sys_updated_by>
+            <sys_updated_on>2018-01-13 00:40:53</sys_updated_on>
+            <value>water domestic</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>meter_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Water Sprinkler</label>
+            <language>en</language>
+            <name>x_uhaa2_uhat_energ_utility_meters</name>
+            <sequence/>
+            <sys_created_by>CWARD2ADMIN</sys_created_by>
+            <sys_created_on>2018-01-13 00:40:44</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>bd95c23edba3c38016bef5951d961963</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>CWARD2ADMIN</sys_updated_by>
+            <sys_updated_on>2018-01-13 00:40:44</sys_updated_on>
+            <value>water sprinkler</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>meter_type</element>
+            <name>x_uhaa2_uhat_energ_utility_meters</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>CWARD2ADMIN</sys_created_by>
+            <sys_created_on>2018-01-13 00:40:15</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_id>518582b6dba3c38016bef5951d961953</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>meter_type</sys_name>
+            <sys_package display_value="UHAT Energy Utilities" source="x_uhaa2_uhat_energ">ea8b0a6adbaf438016bef5951d96197c</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="UHAT Energy Utilities">ea8b0a6adbaf438016bef5951d96197c</sys_scope>
+            <sys_update_name>sys_choice_x_uhaa2_uhat_energ_utility_meters_meter_type</sys_update_name>
+            <sys_updated_by>CWARD2ADMIN</sys_updated_by>
+            <sys_updated_on>2018-01-13 00:40:15</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>

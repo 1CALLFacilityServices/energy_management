@@ -1,0 +1,731 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_section caption="" section_id="fe28a57adbef838016bef5951d96193c" sys_domain="global" table="x_uhaa2_uhat_energ_water_utility_bills" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.begin_split</element>
+            <position>0</position>
+            <sys_created_by>CWARD2ADMIN</sys_created_by>
+            <sys_created_on>2018-01-15 23:19:52</sys_created_on>
+            <sys_id>bcef8573db6f430016bef5951d9619b5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_uhaa2_uhat_energ_water_utility_bills" sys_domain="global" view="Default view">fe28a57adbef838016bef5951d96193c</sys_ui_section>
+            <sys_updated_by>CWARD2ADMIN</sys_updated_by>
+            <sys_updated_on>2018-01-15 23:19:52</sys_updated_on>
+            <sys_user/>
+            <type>.begin_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>number</element>
+            <position>1</position>
+            <sys_created_by>CWARD2ADMIN</sys_created_by>
+            <sys_created_on>2018-01-15 23:19:52</sys_created_on>
+            <sys_id>30ef8573db6f430016bef5951d9619b6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_uhaa2_uhat_energ_water_utility_bills" sys_domain="global" view="Default view">fe28a57adbef838016bef5951d96193c</sys_ui_section>
+            <sys_updated_by>CWARD2ADMIN</sys_updated_by>
+            <sys_updated_on>2018-01-15 23:19:52</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>utility_type</element>
+            <position>2</position>
+            <sys_created_by>CWARD2ADMIN</sys_created_by>
+            <sys_created_on>2018-01-15 23:19:52</sys_created_on>
+            <sys_id>b0ef8573db6f430016bef5951d9619b6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_uhaa2_uhat_energ_water_utility_bills" sys_domain="global" view="Default view">fe28a57adbef838016bef5951d96193c</sys_ui_section>
+            <sys_updated_by>CWARD2ADMIN</sys_updated_by>
+            <sys_updated_on>2018-01-15 23:19:52</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>utility_company</element>
+            <position>3</position>
+            <sys_created_by>CWARD2ADMIN</sys_created_by>
+            <sys_created_on>2018-01-15 23:19:52</sys_created_on>
+            <sys_id>34ef8573db6f430016bef5951d9619b6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_uhaa2_uhat_energ_water_utility_bills" sys_domain="global" view="Default view">fe28a57adbef838016bef5951d96193c</sys_ui_section>
+            <sys_updated_by>CWARD2ADMIN</sys_updated_by>
+            <sys_updated_on>2018-01-15 23:19:52</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>building</element>
+            <position>4</position>
+            <sys_created_by>CWARD2ADMIN</sys_created_by>
+            <sys_created_on>2018-01-15 23:19:52</sys_created_on>
+            <sys_id>b4ef8573db6f430016bef5951d9619b6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_uhaa2_uhat_energ_water_utility_bills" sys_domain="global" view="Default view">fe28a57adbef838016bef5951d96193c</sys_ui_section>
+            <sys_updated_by>CWARD2ADMIN</sys_updated_by>
+            <sys_updated_on>2018-01-15 23:19:52</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>5</position>
+            <sys_created_by>CWARD2ADMIN</sys_created_by>
+            <sys_created_on>2018-01-15 23:19:52</sys_created_on>
+            <sys_id>38ef8573db6f430016bef5951d9619b6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_uhaa2_uhat_energ_water_utility_bills" sys_domain="global" view="Default view">fe28a57adbef838016bef5951d96193c</sys_ui_section>
+            <sys_updated_by>CWARD2ADMIN</sys_updated_by>
+            <sys_updated_on>2018-01-15 23:19:52</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>start_date</element>
+            <position>6</position>
+            <sys_created_by>CWARD2ADMIN</sys_created_by>
+            <sys_created_on>2018-01-15 23:19:52</sys_created_on>
+            <sys_id>b8ef8573db6f430016bef5951d9619b6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_uhaa2_uhat_energ_water_utility_bills" sys_domain="global" view="Default view">fe28a57adbef838016bef5951d96193c</sys_ui_section>
+            <sys_updated_by>CWARD2ADMIN</sys_updated_by>
+            <sys_updated_on>2018-01-15 23:19:52</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>end_date</element>
+            <position>7</position>
+            <sys_created_by>CWARD2ADMIN</sys_created_by>
+            <sys_created_on>2018-01-15 23:19:52</sys_created_on>
+            <sys_id>3cef8573db6f430016bef5951d9619b6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_uhaa2_uhat_energ_water_utility_bills" sys_domain="global" view="Default view">fe28a57adbef838016bef5951d96193c</sys_ui_section>
+            <sys_updated_by>CWARD2ADMIN</sys_updated_by>
+            <sys_updated_on>2018-01-15 23:19:52</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>billing_period</element>
+            <position>8</position>
+            <sys_created_by>CWARD2ADMIN</sys_created_by>
+            <sys_created_on>2018-01-15 23:19:52</sys_created_on>
+            <sys_id>bcef8573db6f430016bef5951d9619b6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_uhaa2_uhat_energ_water_utility_bills" sys_domain="global" view="Default view">fe28a57adbef838016bef5951d96193c</sys_ui_section>
+            <sys_updated_by>CWARD2ADMIN</sys_updated_by>
+            <sys_updated_on>2018-01-15 23:19:52</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>total_charges</element>
+            <position>9</position>
+            <sys_created_by>CWARD2ADMIN</sys_created_by>
+            <sys_created_on>2018-01-15 23:19:52</sys_created_on>
+            <sys_id>30ef8573db6f430016bef5951d9619b7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_uhaa2_uhat_energ_water_utility_bills" sys_domain="global" view="Default view">fe28a57adbef838016bef5951d96193c</sys_ui_section>
+            <sys_updated_by>CWARD2ADMIN</sys_updated_by>
+            <sys_updated_on>2018-01-15 23:19:52</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>10</position>
+            <sys_created_by>CWARD2ADMIN</sys_created_by>
+            <sys_created_on>2018-01-15 23:19:52</sys_created_on>
+            <sys_id>b0ef8573db6f430016bef5951d9619b7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_uhaa2_uhat_energ_water_utility_bills" sys_domain="global" view="Default view">fe28a57adbef838016bef5951d96193c</sys_ui_section>
+            <sys_updated_by>CWARD2ADMIN</sys_updated_by>
+            <sys_updated_on>2018-01-15 23:19:52</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>consumption_up_to_awc</element>
+            <position>11</position>
+            <sys_created_by>CWARD2ADMIN</sys_created_by>
+            <sys_created_on>2018-01-15 23:19:52</sys_created_on>
+            <sys_id>34ef8573db6f430016bef5951d9619b7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_uhaa2_uhat_energ_water_utility_bills" sys_domain="global" view="Default view">fe28a57adbef838016bef5951d96193c</sys_ui_section>
+            <sys_updated_by>CWARD2ADMIN</sys_updated_by>
+            <sys_updated_on>2018-01-15 23:19:52</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>consumption_charge_up_to_awc</element>
+            <position>12</position>
+            <sys_created_by>CWARD2ADMIN</sys_created_by>
+            <sys_created_on>2018-01-15 23:19:52</sys_created_on>
+            <sys_id>b4ef8573db6f430016bef5951d9619b7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_uhaa2_uhat_energ_water_utility_bills" sys_domain="global" view="Default view">fe28a57adbef838016bef5951d96193c</sys_ui_section>
+            <sys_updated_by>CWARD2ADMIN</sys_updated_by>
+            <sys_updated_on>2018-01-15 23:19:52</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>consumption_over_awc</element>
+            <position>13</position>
+            <sys_created_by>CWARD2ADMIN</sys_created_by>
+            <sys_created_on>2018-01-15 23:19:52</sys_created_on>
+            <sys_id>38ef8573db6f430016bef5951d9619b7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_uhaa2_uhat_energ_water_utility_bills" sys_domain="global" view="Default view">fe28a57adbef838016bef5951d96193c</sys_ui_section>
+            <sys_updated_by>CWARD2ADMIN</sys_updated_by>
+            <sys_updated_on>2018-01-15 23:19:52</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>consumption_charge_over_awc</element>
+            <position>14</position>
+            <sys_created_by>CWARD2ADMIN</sys_created_by>
+            <sys_created_on>2018-01-15 23:19:52</sys_created_on>
+            <sys_id>b8ef8573db6f430016bef5951d9619b7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_uhaa2_uhat_energ_water_utility_bills" sys_domain="global" view="Default view">fe28a57adbef838016bef5951d96193c</sys_ui_section>
+            <sys_updated_by>CWARD2ADMIN</sys_updated_by>
+            <sys_updated_on>2018-01-15 23:19:52</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>water_base_charge</element>
+            <position>15</position>
+            <sys_created_by>CWARD2ADMIN</sys_created_by>
+            <sys_created_on>2018-01-15 23:19:52</sys_created_on>
+            <sys_id>3cef8573db6f430016bef5951d9619b7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_uhaa2_uhat_energ_water_utility_bills" sys_domain="global" view="Default view">fe28a57adbef838016bef5951d96193c</sys_ui_section>
+            <sys_updated_by>CWARD2ADMIN</sys_updated_by>
+            <sys_updated_on>2018-01-15 23:19:52</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>fireline_protection</element>
+            <position>16</position>
+            <sys_created_by>CWARD2ADMIN</sys_created_by>
+            <sys_created_on>2018-01-15 23:19:52</sys_created_on>
+            <sys_id>bcef8573db6f430016bef5951d9619b7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_uhaa2_uhat_energ_water_utility_bills" sys_domain="global" view="Default view">fe28a57adbef838016bef5951d96193c</sys_ui_section>
+            <sys_updated_by>CWARD2ADMIN</sys_updated_by>
+            <sys_updated_on>2018-01-15 23:19:52</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>suspended_solids</element>
+            <position>17</position>
+            <sys_created_by>CWARD2ADMIN</sys_created_by>
+            <sys_created_on>2018-01-15 23:19:52</sys_created_on>
+            <sys_id>30ef8573db6f430016bef5951d9619b8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_uhaa2_uhat_energ_water_utility_bills" sys_domain="global" view="Default view">fe28a57adbef838016bef5951d96193c</sys_ui_section>
+            <sys_updated_by>CWARD2ADMIN</sys_updated_by>
+            <sys_updated_on>2018-01-15 23:19:52</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>sewer_usage_units</element>
+            <position>18</position>
+            <sys_created_by>CWARD2ADMIN</sys_created_by>
+            <sys_created_on>2018-01-15 23:19:52</sys_created_on>
+            <sys_id>b0ef8573db6f430016bef5951d9619b8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_uhaa2_uhat_energ_water_utility_bills" sys_domain="global" view="Default view">fe28a57adbef838016bef5951d96193c</sys_ui_section>
+            <sys_updated_by>CWARD2ADMIN</sys_updated_by>
+            <sys_updated_on>2018-01-15 23:19:52</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>sewer_charge</element>
+            <position>19</position>
+            <sys_created_by>CWARD2ADMIN</sys_created_by>
+            <sys_created_on>2018-01-15 23:19:52</sys_created_on>
+            <sys_id>34ef8573db6f430016bef5951d9619b8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_uhaa2_uhat_energ_water_utility_bills" sys_domain="global" view="Default view">fe28a57adbef838016bef5951d96193c</sys_ui_section>
+            <sys_updated_by>CWARD2ADMIN</sys_updated_by>
+            <sys_updated_on>2018-01-15 23:19:52</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>sewer_base_charge</element>
+            <position>20</position>
+            <sys_created_by>CWARD2ADMIN</sys_created_by>
+            <sys_created_on>2018-01-15 23:19:52</sys_created_on>
+            <sys_id>b4ef8573db6f430016bef5951d9619b8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_uhaa2_uhat_energ_water_utility_bills" sys_domain="global" view="Default view">fe28a57adbef838016bef5951d96193c</sys_ui_section>
+            <sys_updated_by>CWARD2ADMIN</sys_updated_by>
+            <sys_updated_on>2018-01-15 23:19:52</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>bod</element>
+            <position>21</position>
+            <sys_created_by>CWARD2ADMIN</sys_created_by>
+            <sys_created_on>2018-01-15 23:19:52</sys_created_on>
+            <sys_id>38ef8573db6f430016bef5951d9619b8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_uhaa2_uhat_energ_water_utility_bills" sys_domain="global" view="Default view">fe28a57adbef838016bef5951d96193c</sys_ui_section>
+            <sys_updated_by>CWARD2ADMIN</sys_updated_by>
+            <sys_updated_on>2018-01-15 23:19:52</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>drainage_fee</element>
+            <position>22</position>
+            <sys_created_by>CWARD2ADMIN</sys_created_by>
+            <sys_created_on>2018-01-15 23:19:52</sys_created_on>
+            <sys_id>b8ef8573db6f430016bef5951d9619b8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_uhaa2_uhat_energ_water_utility_bills" sys_domain="global" view="Default view">fe28a57adbef838016bef5951d96193c</sys_ui_section>
+            <sys_updated_by>CWARD2ADMIN</sys_updated_by>
+            <sys_updated_on>2018-01-15 23:19:52</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>customer_charge</element>
+            <position>23</position>
+            <sys_created_by>CWARD2ADMIN</sys_created_by>
+            <sys_created_on>2018-01-15 23:19:52</sys_created_on>
+            <sys_id>3cef8573db6f430016bef5951d9619b8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_uhaa2_uhat_energ_water_utility_bills" sys_domain="global" view="Default view">fe28a57adbef838016bef5951d96193c</sys_ui_section>
+            <sys_updated_by>CWARD2ADMIN</sys_updated_by>
+            <sys_updated_on>2018-01-15 23:19:52</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>additional_charges</element>
+            <position>24</position>
+            <sys_created_by>CWARD2ADMIN</sys_created_by>
+            <sys_created_on>2018-01-15 23:19:52</sys_created_on>
+            <sys_id>bcef8573db6f430016bef5951d9619b8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_uhaa2_uhat_energ_water_utility_bills" sys_domain="global" view="Default view">fe28a57adbef838016bef5951d96193c</sys_ui_section>
+            <sys_updated_by>CWARD2ADMIN</sys_updated_by>
+            <sys_updated_on>2018-01-15 23:19:52</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>sewer_permits</element>
+            <position>25</position>
+            <sys_created_by>CWARD2ADMIN</sys_created_by>
+            <sys_created_on>2018-01-15 23:19:52</sys_created_on>
+            <sys_id>30ef8573db6f430016bef5951d9619b9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_uhaa2_uhat_energ_water_utility_bills" sys_domain="global" view="Default view">fe28a57adbef838016bef5951d96193c</sys_ui_section>
+            <sys_updated_by>CWARD2ADMIN</sys_updated_by>
+            <sys_updated_on>2018-01-15 23:19:52</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>meter_1</element>
+            <position>26</position>
+            <sys_created_by>CWARD2ADMIN</sys_created_by>
+            <sys_created_on>2018-01-15 23:19:52</sys_created_on>
+            <sys_id>b0ef8573db6f430016bef5951d9619b9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_uhaa2_uhat_energ_water_utility_bills" sys_domain="global" view="Default view">fe28a57adbef838016bef5951d96193c</sys_ui_section>
+            <sys_updated_by>CWARD2ADMIN</sys_updated_by>
+            <sys_updated_on>2018-01-15 23:19:52</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>meter_1_first_read_date</element>
+            <position>27</position>
+            <sys_created_by>CWARD2ADMIN</sys_created_by>
+            <sys_created_on>2018-01-15 23:19:52</sys_created_on>
+            <sys_id>34ef8573db6f430016bef5951d9619b9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_uhaa2_uhat_energ_water_utility_bills" sys_domain="global" view="Default view">fe28a57adbef838016bef5951d96193c</sys_ui_section>
+            <sys_updated_by>CWARD2ADMIN</sys_updated_by>
+            <sys_updated_on>2018-01-15 23:19:52</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>meter_1_reading</element>
+            <position>28</position>
+            <sys_created_by>CWARD2ADMIN</sys_created_by>
+            <sys_created_on>2018-01-15 23:19:52</sys_created_on>
+            <sys_id>b4ef8573db6f430016bef5951d9619b9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_uhaa2_uhat_energ_water_utility_bills" sys_domain="global" view="Default view">fe28a57adbef838016bef5951d96193c</sys_ui_section>
+            <sys_updated_by>CWARD2ADMIN</sys_updated_by>
+            <sys_updated_on>2018-01-15 23:19:52</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>meter_1_second_read_date</element>
+            <position>29</position>
+            <sys_created_by>CWARD2ADMIN</sys_created_by>
+            <sys_created_on>2018-01-15 23:19:52</sys_created_on>
+            <sys_id>38ef8573db6f430016bef5951d9619b9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_uhaa2_uhat_energ_water_utility_bills" sys_domain="global" view="Default view">fe28a57adbef838016bef5951d96193c</sys_ui_section>
+            <sys_updated_by>CWARD2ADMIN</sys_updated_by>
+            <sys_updated_on>2018-01-15 23:19:52</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>meter_2</element>
+            <position>30</position>
+            <sys_created_by>CWARD2ADMIN</sys_created_by>
+            <sys_created_on>2018-01-15 23:19:52</sys_created_on>
+            <sys_id>b8ef8573db6f430016bef5951d9619b9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_uhaa2_uhat_energ_water_utility_bills" sys_domain="global" view="Default view">fe28a57adbef838016bef5951d96193c</sys_ui_section>
+            <sys_updated_by>CWARD2ADMIN</sys_updated_by>
+            <sys_updated_on>2018-01-15 23:19:52</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>meter_2_reading</element>
+            <position>31</position>
+            <sys_created_by>CWARD2ADMIN</sys_created_by>
+            <sys_created_on>2018-01-15 23:19:52</sys_created_on>
+            <sys_id>3cef8573db6f430016bef5951d9619b9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_uhaa2_uhat_energ_water_utility_bills" sys_domain="global" view="Default view">fe28a57adbef838016bef5951d96193c</sys_ui_section>
+            <sys_updated_by>CWARD2ADMIN</sys_updated_by>
+            <sys_updated_on>2018-01-15 23:19:52</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>meter_3</element>
+            <position>32</position>
+            <sys_created_by>CWARD2ADMIN</sys_created_by>
+            <sys_created_on>2018-01-15 23:19:52</sys_created_on>
+            <sys_id>bcef8573db6f430016bef5951d9619b9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_uhaa2_uhat_energ_water_utility_bills" sys_domain="global" view="Default view">fe28a57adbef838016bef5951d96193c</sys_ui_section>
+            <sys_updated_by>CWARD2ADMIN</sys_updated_by>
+            <sys_updated_on>2018-01-15 23:19:52</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>meter_3_reading</element>
+            <position>33</position>
+            <sys_created_by>CWARD2ADMIN</sys_created_by>
+            <sys_created_on>2018-01-15 23:19:52</sys_created_on>
+            <sys_id>30ef8573db6f430016bef5951d9619ba</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_uhaa2_uhat_energ_water_utility_bills" sys_domain="global" view="Default view">fe28a57adbef838016bef5951d96193c</sys_ui_section>
+            <sys_updated_by>CWARD2ADMIN</sys_updated_by>
+            <sys_updated_on>2018-01-15 23:19:52</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>meter_4</element>
+            <position>34</position>
+            <sys_created_by>CWARD2ADMIN</sys_created_by>
+            <sys_created_on>2018-01-15 23:19:52</sys_created_on>
+            <sys_id>b0ef8573db6f430016bef5951d9619ba</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_uhaa2_uhat_energ_water_utility_bills" sys_domain="global" view="Default view">fe28a57adbef838016bef5951d96193c</sys_ui_section>
+            <sys_updated_by>CWARD2ADMIN</sys_updated_by>
+            <sys_updated_on>2018-01-15 23:19:52</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>meter_4_reading</element>
+            <position>35</position>
+            <sys_created_by>CWARD2ADMIN</sys_created_by>
+            <sys_created_on>2018-01-15 23:19:52</sys_created_on>
+            <sys_id>34ef8573db6f430016bef5951d9619ba</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_uhaa2_uhat_energ_water_utility_bills" sys_domain="global" view="Default view">fe28a57adbef838016bef5951d96193c</sys_ui_section>
+            <sys_updated_by>CWARD2ADMIN</sys_updated_by>
+            <sys_updated_on>2018-01-15 23:19:52</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>meter_2_first_read_date</element>
+            <position>36</position>
+            <sys_created_by>CWARD2ADMIN</sys_created_by>
+            <sys_created_on>2018-01-15 23:19:52</sys_created_on>
+            <sys_id>b4ef8573db6f430016bef5951d9619ba</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_uhaa2_uhat_energ_water_utility_bills" sys_domain="global" view="Default view">fe28a57adbef838016bef5951d96193c</sys_ui_section>
+            <sys_updated_by>CWARD2ADMIN</sys_updated_by>
+            <sys_updated_on>2018-01-15 23:19:52</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>meter_2_second_read_date</element>
+            <position>37</position>
+            <sys_created_by>CWARD2ADMIN</sys_created_by>
+            <sys_created_on>2018-01-15 23:19:52</sys_created_on>
+            <sys_id>09ef8573db6f430016bef5951d9619ba</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_uhaa2_uhat_energ_water_utility_bills" sys_domain="global" view="Default view">fe28a57adbef838016bef5951d96193c</sys_ui_section>
+            <sys_updated_by>CWARD2ADMIN</sys_updated_by>
+            <sys_updated_on>2018-01-15 23:19:52</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>meter_3_first_read_date</element>
+            <position>38</position>
+            <sys_created_by>CWARD2ADMIN</sys_created_by>
+            <sys_created_on>2018-01-15 23:19:52</sys_created_on>
+            <sys_id>89ef8573db6f430016bef5951d9619ba</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_uhaa2_uhat_energ_water_utility_bills" sys_domain="global" view="Default view">fe28a57adbef838016bef5951d96193c</sys_ui_section>
+            <sys_updated_by>CWARD2ADMIN</sys_updated_by>
+            <sys_updated_on>2018-01-15 23:19:52</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>meter_3_second_read_date</element>
+            <position>39</position>
+            <sys_created_by>CWARD2ADMIN</sys_created_by>
+            <sys_created_on>2018-01-15 23:19:52</sys_created_on>
+            <sys_id>0def8573db6f430016bef5951d9619ba</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_uhaa2_uhat_energ_water_utility_bills" sys_domain="global" view="Default view">fe28a57adbef838016bef5951d96193c</sys_ui_section>
+            <sys_updated_by>CWARD2ADMIN</sys_updated_by>
+            <sys_updated_on>2018-01-15 23:19:52</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>meter_4_first_read_date</element>
+            <position>40</position>
+            <sys_created_by>CWARD2ADMIN</sys_created_by>
+            <sys_created_on>2018-01-15 23:19:52</sys_created_on>
+            <sys_id>8def8573db6f430016bef5951d9619ba</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_uhaa2_uhat_energ_water_utility_bills" sys_domain="global" view="Default view">fe28a57adbef838016bef5951d96193c</sys_ui_section>
+            <sys_updated_by>CWARD2ADMIN</sys_updated_by>
+            <sys_updated_on>2018-01-15 23:19:52</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>meter_4_second_read_date</element>
+            <position>41</position>
+            <sys_created_by>CWARD2ADMIN</sys_created_by>
+            <sys_created_on>2018-01-15 23:19:52</sys_created_on>
+            <sys_id>01ef8573db6f430016bef5951d9619bb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_uhaa2_uhat_energ_water_utility_bills" sys_domain="global" view="Default view">fe28a57adbef838016bef5951d96193c</sys_ui_section>
+            <sys_updated_by>CWARD2ADMIN</sys_updated_by>
+            <sys_updated_on>2018-01-15 23:19:52</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>meter_1_first_reading</element>
+            <position>42</position>
+            <sys_created_by>CWARD2ADMIN</sys_created_by>
+            <sys_created_on>2018-01-15 23:21:45</sys_created_on>
+            <sys_id>b45011b3db6f430016bef5951d96199c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_uhaa2_uhat_energ_water_utility_bills" sys_domain="global" view="Default view">fe28a57adbef838016bef5951d96193c</sys_ui_section>
+            <sys_updated_by>CWARD2ADMIN</sys_updated_by>
+            <sys_updated_on>2018-01-15 23:21:45</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>meter_1_second_reading</element>
+            <position>43</position>
+            <sys_created_by>CWARD2ADMIN</sys_created_by>
+            <sys_created_on>2018-01-15 23:22:40</sys_created_on>
+            <sys_id>868055b3db6f430016bef5951d961997</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_uhaa2_uhat_energ_water_utility_bills" sys_domain="global" view="Default view">fe28a57adbef838016bef5951d96193c</sys_ui_section>
+            <sys_updated_by>CWARD2ADMIN</sys_updated_by>
+            <sys_updated_on>2018-01-15 23:22:40</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>meter_2_first_reading</element>
+            <position>44</position>
+            <sys_created_by>CWARD2ADMIN</sys_created_by>
+            <sys_created_on>2018-01-15 23:24:03</sys_created_on>
+            <sys_id>16d09df3db6f430016bef5951d96197b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_uhaa2_uhat_energ_water_utility_bills" sys_domain="global" view="Default view">fe28a57adbef838016bef5951d96193c</sys_ui_section>
+            <sys_updated_by>CWARD2ADMIN</sys_updated_by>
+            <sys_updated_on>2018-01-15 23:24:03</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>meter_2_second_reading</element>
+            <position>45</position>
+            <sys_created_by>CWARD2ADMIN</sys_created_by>
+            <sys_created_on>2018-01-15 23:24:23</sys_created_on>
+            <sys_id>17e09537db6f430016bef5951d96193b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_uhaa2_uhat_energ_water_utility_bills" sys_domain="global" view="Default view">fe28a57adbef838016bef5951d96193c</sys_ui_section>
+            <sys_updated_by>CWARD2ADMIN</sys_updated_by>
+            <sys_updated_on>2018-01-15 23:24:23</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>meter_3_first_reading</element>
+            <position>46</position>
+            <sys_created_by>CWARD2ADMIN</sys_created_by>
+            <sys_created_on>2018-01-15 23:24:42</sys_created_on>
+            <sys_id>33f05537db6f430016bef5951d9619e0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_uhaa2_uhat_energ_water_utility_bills" sys_domain="global" view="Default view">fe28a57adbef838016bef5951d96193c</sys_ui_section>
+            <sys_updated_by>CWARD2ADMIN</sys_updated_by>
+            <sys_updated_on>2018-01-15 23:24:42</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>meter_3_second_reading</element>
+            <position>47</position>
+            <sys_created_by>CWARD2ADMIN</sys_created_by>
+            <sys_created_on>2018-01-15 23:25:05</sys_created_on>
+            <sys_id>29119537db6f430016bef5951d961950</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_uhaa2_uhat_energ_water_utility_bills" sys_domain="global" view="Default view">fe28a57adbef838016bef5951d96193c</sys_ui_section>
+            <sys_updated_by>CWARD2ADMIN</sys_updated_by>
+            <sys_updated_on>2018-01-15 23:25:05</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>meter_4_first_reading</element>
+            <position>48</position>
+            <sys_created_by>CWARD2ADMIN</sys_created_by>
+            <sys_created_on>2018-01-15 23:25:36</sys_created_on>
+            <sys_id>c1315537db6f430016bef5951d96190e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_uhaa2_uhat_energ_water_utility_bills" sys_domain="global" view="Default view">fe28a57adbef838016bef5951d96193c</sys_ui_section>
+            <sys_updated_by>CWARD2ADMIN</sys_updated_by>
+            <sys_updated_on>2018-01-15 23:25:36</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>meter_4_second_reading</element>
+            <position>49</position>
+            <sys_created_by>CWARD2ADMIN</sys_created_by>
+            <sys_created_on>2018-01-15 23:25:58</sys_created_on>
+            <sys_id>5a41d537db6f430016bef5951d9619f7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_uhaa2_uhat_energ_water_utility_bills" sys_domain="global" view="Default view">fe28a57adbef838016bef5951d96193c</sys_ui_section>
+            <sys_updated_by>CWARD2ADMIN</sys_updated_by>
+            <sys_updated_on>2018-01-15 23:25:58</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>x_uhaa2_uhat_energ_water_utility_bills</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>CWARD2ADMIN</sys_created_by>
+            <sys_created_on>2018-01-12 22:32:00</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_domain>global</sys_domain>
+            <sys_id>fe28a57adbef838016bef5951d96193c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_uhaa2_uhat_energ_water_utility_bills</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="UHAT Energy Utilities" source="x_uhaa2_uhat_energ">ea8b0a6adbaf438016bef5951d96197c</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="UHAT Energy Utilities">ea8b0a6adbaf438016bef5951d96197c</sys_scope>
+            <sys_update_name>sys_ui_section_fe28a57adbef838016bef5951d96193c</sys_update_name>
+            <sys_updated_by>CWARD2ADMIN</sys_updated_by>
+            <sys_updated_on>2018-01-12 22:32:00</sys_updated_on>
+            <sys_user/>
+            <title>true</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

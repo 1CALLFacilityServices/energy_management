@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="utility_type" table="x_uhaa2_uhat_energ_uhat_energy_utility_bills" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>utility_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Chiller</label>
+            <language>en</language>
+            <name>x_uhaa2_uhat_energ_uhat_energy_utility_bills</name>
+            <sequence/>
+            <sys_created_by>CWARD2ADMIN</sys_created_by>
+            <sys_created_on>2018-01-12 06:35:24</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>043d422edbaf438016bef5951d961969</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>CWARD2ADMIN</sys_updated_by>
+            <sys_updated_on>2018-01-12 06:35:24</sys_updated_on>
+            <value>chiller</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>utility_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Electric</label>
+            <language>en</language>
+            <name>x_uhaa2_uhat_energ_uhat_energy_utility_bills</name>
+            <sequence/>
+            <sys_created_by>CWARD2ADMIN</sys_created_by>
+            <sys_created_on>2018-01-12 06:36:09</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>eb5d022edbaf438016bef5951d9619f4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>CWARD2ADMIN</sys_updated_by>
+            <sys_updated_on>2018-01-12 06:36:09</sys_updated_on>
+            <value>electric</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>utility_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Steam</label>
+            <language>en</language>
+            <name>x_uhaa2_uhat_energ_uhat_energy_utility_bills</name>
+            <sequence/>
+            <sys_created_by>CWARD2ADMIN</sys_created_by>
+            <sys_created_on>2018-01-12 06:36:00</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>915d8eeadbaf438016bef5951d961934</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>CWARD2ADMIN</sys_updated_by>
+            <sys_updated_on>2018-01-12 06:36:00</sys_updated_on>
+            <value>steam</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>utility_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Water</label>
+            <language>en</language>
+            <name>x_uhaa2_uhat_energ_uhat_energy_utility_bills</name>
+            <sequence/>
+            <sys_created_by>CWARD2ADMIN</sys_created_by>
+            <sys_created_on>2018-01-12 06:35:38</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>8f3d46eadbaf438016bef5951d961950</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>CWARD2ADMIN</sys_updated_by>
+            <sys_updated_on>2018-01-12 06:35:38</sys_updated_on>
+            <value>water</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>utility_type</element>
+            <name>x_uhaa2_uhat_energ_uhat_energy_utility_bills</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>CWARD2ADMIN</sys_created_by>
+            <sys_created_on>2018-01-12 06:35:24</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_id>4e3d8aeadbaf438016bef5951d9619f2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>utility_type</sys_name>
+            <sys_package display_value="UHAT Energy Utilities" source="x_uhaa2_uhat_energ">ea8b0a6adbaf438016bef5951d96197c</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="UHAT Energy Utilities">ea8b0a6adbaf438016bef5951d96197c</sys_scope>
+            <sys_update_name>sys_choice_x_uhaa2_uhat_energ_uhat_energy_utility_bills_utility_type</sys_update_name>
+            <sys_updated_by>CWARD2ADMIN</sys_updated_by>
+            <sys_updated_on>2018-01-12 06:35:24</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>

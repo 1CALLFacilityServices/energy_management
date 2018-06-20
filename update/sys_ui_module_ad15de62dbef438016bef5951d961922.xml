@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="sys_ui_module">
+    <sys_ui_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="UHAT Energy Utilities">4f8bc2aadbaf438016bef5951d9619f5</application>
+        <filter/>
+        <name>Water Utility Bills</name>
+        <order/>
+        <path/>
+        <path_relative_to_root>false</path_relative_to_root>
+        <roles>x_uhaa2_uhat_energ.user</roles>
+        <sys_class_name>sys_ui_module</sys_class_name>
+        <sys_created_by>CWARD2ADMIN</sys_created_by>
+        <sys_created_on>2018-01-12 07:09:46</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_domain>global</sys_domain>
+        <sys_id>ad15de62dbef438016bef5951d961922</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Water Utility Bills</sys_name>
+        <sys_package display_value="UHAT Energy Utilities" source="x_uhaa2_uhat_energ">ea8b0a6adbaf438016bef5951d96197c</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="UHAT Energy Utilities">ea8b0a6adbaf438016bef5951d96197c</sys_scope>
+        <sys_update_name>sys_ui_module_ad15de62dbef438016bef5951d961922</sys_update_name>
+        <sys_updated_by>CWARD2ADMIN</sys_updated_by>
+        <sys_updated_on>2018-01-12 07:09:46</sys_updated_on>
+        <table>x_uhaa2_uhat_energ_water_utility_bills</table>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+    </sys_ui_module>
+</record_update>

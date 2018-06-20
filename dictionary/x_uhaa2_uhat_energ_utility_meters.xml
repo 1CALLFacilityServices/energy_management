@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="Utility Meters" max_length="40" name="x_uhaa2_uhat_energ_utility_meters" type="collection">
+        <element choice="1" label="Meter Company" max_length="32" name="meter_company" reference="core_company" reference_qual="vendor_typeLIKE513f8a6edbaf438016bef5951d961956^EQ" reference_qual_condition="vendor_typeLIKE513f8a6edbaf438016bef5951d961956^EQ" type="reference">
+            <choice/>
+        </element>
+        <element choice="1" label="Meter Location" max_length="32" name="meter_location" reference="cmn_building" reference_qual="u_cmn_bldg_shortnameISNOTEMPTY^EQ" reference_qual_condition="u_cmn_bldg_shortnameISNOTEMPTY^EQ" type="reference">
+            <choice/>
+        </element>
+        <element display="true" label="Meter Number" max_length="40" name="meter_number" type="string"/>
+        <element label="Meter Size" max_length="40" name="meter_size" type="string"/>
+        <element choice="1" label="Meter Type" max_length="40" name="meter_type" type="choice">
+            <choice>
+                <element label="Chill" value="chill"/>
+                <element label="Electric" value="electric"/>
+                <element label="Gas" value="gas"/>
+                <element label="Steam" value="steam"/>
+                <element label="Water Domestic" value="water domestic"/>
+                <element label="Water Sprinkler" value="water sprinkler"/>
+            </choice>
+        </element>
+        <index name="index">
+            <element name="meter_location"/>
+        </index>
+        <index name="index2">
+            <element name="meter_company"/>
+        </index>
+    </element>
+</database>

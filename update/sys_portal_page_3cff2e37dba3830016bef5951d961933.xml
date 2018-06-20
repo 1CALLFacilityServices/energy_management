@@ -1,0 +1,395 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update node_type="sys_portal_page" unload_date="2018-06-20 16:09:52">
+    <sys_portal_page action="INSERT_OR_UPDATE">
+        <layout display_value="layout_executive_dashboard">25426531c3123100eb79506adfba8f89</layout>
+        <order/>
+        <read_roles/>
+        <roles/>
+        <selectable>false</selectable>
+        <sys_class_name>sys_portal_page</sys_class_name>
+        <sys_created_by>CWARD2ADMIN</sys_created_by>
+        <sys_created_on>2018-01-16 06:19:33</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_domain>global</sys_domain>
+        <sys_id>3cff2e37dba3830016bef5951d961933</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>PA Utilities</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="UHAT Energy Utilities" source="x_uhaa2_uhat_energ">ea8b0a6adbaf438016bef5951d96197c</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="UHAT Energy Utilities">ea8b0a6adbaf438016bef5951d96197c</sys_scope>
+        <sys_update_name>sys_portal_page_3cff2e37dba3830016bef5951d961933</sys_update_name>
+        <sys_updated_by>CWARD2ADMIN</sys_updated_by>
+        <sys_updated_on>2018-01-16 06:21:12</sys_updated_on>
+        <title>PA Utilities</title>
+        <user/>
+        <view>pa_utilities_2</view>
+        <related_items_node>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone>dropzone1</dropzone>
+                <offset>1</offset>
+                <page display_value="PA Utilities">3cff2e37dba3830016bef5951d961933</page>
+                <summary/>
+                <sys_created_by>CWARD2ADMIN</sys_created_by>
+                <sys_created_on>2018-01-16 06:21:16</sys_created_on>
+                <sys_id>35507ab7dba3830016bef5951d961963</sys_id>
+                <sys_mod_count>0</sys_mod_count>
+                <sys_updated_by>CWARD2ADMIN</sys_updated_by>
+                <sys_updated_on>2018-01-16 06:21:16</sys_updated_on>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 01-16-2018 00:21:16">35507ab7dba3830016bef5951d961963</portal_section>
+                        <sys_created_by>CWARD2ADMIN</sys_created_by>
+                        <sys_created_on>2018-01-16 06:21:16</sys_created_on>
+                        <sys_id>31507ab7dba3830016bef5951d961964</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>CWARD2ADMIN</sys_updated_by>
+                        <sys_updated_on>2018-01-16 06:21:16</sys_updated_on>
+                        <value>com.glide.ui.portal.RenderReport</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>can_subscribe</name>
+                        <portal_section display_value="Created 01-16-2018 00:21:16">35507ab7dba3830016bef5951d961963</portal_section>
+                        <sys_created_by>CWARD2ADMIN</sys_created_by>
+                        <sys_created_on>2018-01-16 06:21:16</sys_created_on>
+                        <sys_id>35507ab7dba3830016bef5951d961964</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>CWARD2ADMIN</sys_updated_by>
+                        <sys_updated_on>2018-01-16 06:21:16</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>report_type</name>
+                        <portal_section display_value="Created 01-16-2018 00:21:16">35507ab7dba3830016bef5951d961963</portal_section>
+                        <sys_created_by>CWARD2ADMIN</sys_created_by>
+                        <sys_created_on>2018-01-16 06:21:16</sys_created_on>
+                        <sys_id>39507ab7dba3830016bef5951d961964</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>CWARD2ADMIN</sys_updated_by>
+                        <sys_updated_on>2018-01-16 06:21:16</sys_updated_on>
+                        <value>single_score</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>help_text_window</name>
+                        <portal_section display_value="Created 01-16-2018 00:21:16">35507ab7dba3830016bef5951d961963</portal_section>
+                        <sys_created_by>CWARD2ADMIN</sys_created_by>
+                        <sys_created_on>2018-01-16 06:21:16</sys_created_on>
+                        <sys_id>3d507ab7dba3830016bef5951d961963</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>CWARD2ADMIN</sys_updated_by>
+                        <sys_updated_on>2018-01-16 06:21:16</sys_updated_on>
+                        <value>report_widget_description</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 01-16-2018 00:21:16">35507ab7dba3830016bef5951d961963</portal_section>
+                        <sys_created_by>CWARD2ADMIN</sys_created_by>
+                        <sys_created_on>2018-01-16 06:21:16</sys_created_on>
+                        <sys_id>3d507ab7dba3830016bef5951d961964</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>CWARD2ADMIN</sys_updated_by>
+                        <sys_updated_on>2018-01-16 06:21:16</sys_updated_on>
+                        <value>Water Total - FY17</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>current_page</name>
+                        <portal_section display_value="Created 01-16-2018 00:21:16">35507ab7dba3830016bef5951d961963</portal_section>
+                        <sys_created_by>CWARD2ADMIN</sys_created_by>
+                        <sys_created_on>2018-01-16 06:21:16</sys_created_on>
+                        <sys_id>b1507ab7dba3830016bef5951d961965</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>CWARD2ADMIN</sys_updated_by>
+                        <sys_updated_on>2018-01-16 06:21:16</sys_updated_on>
+                        <value>3cff2e37dba3830016bef5951d961933</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 01-16-2018 00:21:16">35507ab7dba3830016bef5951d961963</portal_section>
+                        <sys_created_by>CWARD2ADMIN</sys_created_by>
+                        <sys_created_on>2018-01-16 06:21:16</sys_created_on>
+                        <sys_id>b5507ab7dba3830016bef5951d961963</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>CWARD2ADMIN</sys_updated_by>
+                        <sys_updated_on>2018-01-16 06:21:16</sys_updated_on>
+                        <value>27e822bfdb63830016bef5951d9619a1</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone>dropzone1</dropzone>
+                <offset>0</offset>
+                <page display_value="PA Utilities">3cff2e37dba3830016bef5951d961933</page>
+                <summary/>
+                <sys_created_by>CWARD2ADMIN</sys_created_by>
+                <sys_created_on>2018-01-16 06:21:16</sys_created_on>
+                <sys_id>71507ab7dba3830016bef5951d961961</sys_id>
+                <sys_mod_count>0</sys_mod_count>
+                <sys_updated_by>CWARD2ADMIN</sys_updated_by>
+                <sys_updated_on>2018-01-16 06:21:16</sys_updated_on>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>can_subscribe</name>
+                        <portal_section display_value="Created 01-16-2018 00:21:16">71507ab7dba3830016bef5951d961961</portal_section>
+                        <sys_created_by>CWARD2ADMIN</sys_created_by>
+                        <sys_created_on>2018-01-16 06:21:16</sys_created_on>
+                        <sys_id>71507ab7dba3830016bef5951d961962</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>CWARD2ADMIN</sys_updated_by>
+                        <sys_updated_on>2018-01-16 06:21:16</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>report_type</name>
+                        <portal_section display_value="Created 01-16-2018 00:21:16">71507ab7dba3830016bef5951d961961</portal_section>
+                        <sys_created_by>CWARD2ADMIN</sys_created_by>
+                        <sys_created_on>2018-01-16 06:21:16</sys_created_on>
+                        <sys_id>75507ab7dba3830016bef5951d961962</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>CWARD2ADMIN</sys_updated_by>
+                        <sys_updated_on>2018-01-16 06:21:16</sys_updated_on>
+                        <value>single_score</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 01-16-2018 00:21:16">71507ab7dba3830016bef5951d961961</portal_section>
+                        <sys_created_by>CWARD2ADMIN</sys_created_by>
+                        <sys_created_on>2018-01-16 06:21:16</sys_created_on>
+                        <sys_id>79507ab7dba3830016bef5951d961961</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>CWARD2ADMIN</sys_updated_by>
+                        <sys_updated_on>2018-01-16 06:21:16</sys_updated_on>
+                        <value>com.glide.ui.portal.RenderReport</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 01-16-2018 00:21:16">71507ab7dba3830016bef5951d961961</portal_section>
+                        <sys_created_by>CWARD2ADMIN</sys_created_by>
+                        <sys_created_on>2018-01-16 06:21:16</sys_created_on>
+                        <sys_id>79507ab7dba3830016bef5951d961962</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>CWARD2ADMIN</sys_updated_by>
+                        <sys_updated_on>2018-01-16 06:21:16</sys_updated_on>
+                        <value>Water Total - FY18</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>help_text_window</name>
+                        <portal_section display_value="Created 01-16-2018 00:21:16">71507ab7dba3830016bef5951d961961</portal_section>
+                        <sys_created_by>CWARD2ADMIN</sys_created_by>
+                        <sys_created_on>2018-01-16 06:21:16</sys_created_on>
+                        <sys_id>7d507ab7dba3830016bef5951d961961</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>CWARD2ADMIN</sys_updated_by>
+                        <sys_updated_on>2018-01-16 06:21:16</sys_updated_on>
+                        <value>report_widget_description</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 01-16-2018 00:21:16">71507ab7dba3830016bef5951d961961</portal_section>
+                        <sys_created_by>CWARD2ADMIN</sys_created_by>
+                        <sys_created_on>2018-01-16 06:21:16</sys_created_on>
+                        <sys_id>f1507ab7dba3830016bef5951d961961</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>CWARD2ADMIN</sys_updated_by>
+                        <sys_updated_on>2018-01-16 06:21:16</sys_updated_on>
+                        <value>644962bfdb63830016bef5951d9619e1</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>current_page</name>
+                        <portal_section display_value="Created 01-16-2018 00:21:16">71507ab7dba3830016bef5951d961961</portal_section>
+                        <sys_created_by>CWARD2ADMIN</sys_created_by>
+                        <sys_created_on>2018-01-16 06:21:16</sys_created_on>
+                        <sys_id>fd507ab7dba3830016bef5951d961962</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>CWARD2ADMIN</sys_updated_by>
+                        <sys_updated_on>2018-01-16 06:21:16</sys_updated_on>
+                        <value>3cff2e37dba3830016bef5951d961933</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone>dropzone0</dropzone>
+                <offset>0</offset>
+                <page display_value="PA Utilities">3cff2e37dba3830016bef5951d961933</page>
+                <summary/>
+                <sys_created_by>CWARD2ADMIN</sys_created_by>
+                <sys_created_on>2018-01-16 06:21:16</sys_created_on>
+                <sys_id>bd507ab7dba3830016bef5951d96195e</sys_id>
+                <sys_mod_count>0</sys_mod_count>
+                <sys_updated_by>CWARD2ADMIN</sys_updated_by>
+                <sys_updated_on>2018-01-16 06:21:16</sys_updated_on>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 01-16-2018 00:21:16">bd507ab7dba3830016bef5951d96195e</portal_section>
+                        <sys_created_by>CWARD2ADMIN</sys_created_by>
+                        <sys_created_on>2018-01-16 06:21:16</sys_created_on>
+                        <sys_id>31507ab7dba3830016bef5951d96195f</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>CWARD2ADMIN</sys_updated_by>
+                        <sys_updated_on>2018-01-16 06:21:16</sys_updated_on>
+                        <value>995ce633dba3830016bef5951d961915</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>current_page</name>
+                        <portal_section display_value="Created 01-16-2018 00:21:16">bd507ab7dba3830016bef5951d96195e</portal_section>
+                        <sys_created_by>CWARD2ADMIN</sys_created_by>
+                        <sys_created_on>2018-01-16 06:21:16</sys_created_on>
+                        <sys_id>3d507ab7dba3830016bef5951d961960</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>CWARD2ADMIN</sys_updated_by>
+                        <sys_updated_on>2018-01-16 06:21:16</sys_updated_on>
+                        <value>3cff2e37dba3830016bef5951d961933</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>can_subscribe</name>
+                        <portal_section display_value="Created 01-16-2018 00:21:16">bd507ab7dba3830016bef5951d96195e</portal_section>
+                        <sys_created_by>CWARD2ADMIN</sys_created_by>
+                        <sys_created_on>2018-01-16 06:21:16</sys_created_on>
+                        <sys_id>b1507ab7dba3830016bef5951d961960</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>CWARD2ADMIN</sys_updated_by>
+                        <sys_updated_on>2018-01-16 06:21:16</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>help_text_window</name>
+                        <portal_section display_value="Created 01-16-2018 00:21:16">bd507ab7dba3830016bef5951d96195e</portal_section>
+                        <sys_created_by>CWARD2ADMIN</sys_created_by>
+                        <sys_created_on>2018-01-16 06:21:16</sys_created_on>
+                        <sys_id>b5507ab7dba3830016bef5951d96195f</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>CWARD2ADMIN</sys_updated_by>
+                        <sys_updated_on>2018-01-16 06:21:16</sys_updated_on>
+                        <value>report_widget_description</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 01-16-2018 00:21:16">bd507ab7dba3830016bef5951d96195e</portal_section>
+                        <sys_created_by>CWARD2ADMIN</sys_created_by>
+                        <sys_created_on>2018-01-16 06:21:16</sys_created_on>
+                        <sys_id>b5507ab7dba3830016bef5951d961960</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>CWARD2ADMIN</sys_updated_by>
+                        <sys_updated_on>2018-01-16 06:21:16</sys_updated_on>
+                        <value>Water Total - By BLDG / Year</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 01-16-2018 00:21:16">bd507ab7dba3830016bef5951d96195e</portal_section>
+                        <sys_created_by>CWARD2ADMIN</sys_created_by>
+                        <sys_created_on>2018-01-16 06:21:16</sys_created_on>
+                        <sys_id>b9507ab7dba3830016bef5951d96195f</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>CWARD2ADMIN</sys_updated_by>
+                        <sys_updated_on>2018-01-16 06:21:16</sys_updated_on>
+                        <value>com.glide.ui.portal.RenderReport</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>report_type</name>
+                        <portal_section display_value="Created 01-16-2018 00:21:16">bd507ab7dba3830016bef5951d96195e</portal_section>
+                        <sys_created_by>CWARD2ADMIN</sys_created_by>
+                        <sys_created_on>2018-01-16 06:21:16</sys_created_on>
+                        <sys_id>bd507ab7dba3830016bef5951d96195f</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>CWARD2ADMIN</sys_updated_by>
+                        <sys_updated_on>2018-01-16 06:21:16</sys_updated_on>
+                        <value>line</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone>dropzone1</dropzone>
+                <offset>2</offset>
+                <page display_value="PA Utilities">3cff2e37dba3830016bef5951d961933</page>
+                <summary/>
+                <sys_created_by>CWARD2ADMIN</sys_created_by>
+                <sys_created_on>2018-01-16 06:21:16</sys_created_on>
+                <sys_id>f5507ab7dba3830016bef5951d961965</sys_id>
+                <sys_mod_count>0</sys_mod_count>
+                <sys_updated_by>CWARD2ADMIN</sys_updated_by>
+                <sys_updated_on>2018-01-16 06:21:16</sys_updated_on>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>current_page</name>
+                        <portal_section display_value="Created 01-16-2018 00:21:16">f5507ab7dba3830016bef5951d961965</portal_section>
+                        <sys_created_by>CWARD2ADMIN</sys_created_by>
+                        <sys_created_on>2018-01-16 06:21:16</sys_created_on>
+                        <sys_id>75507ab7dba3830016bef5951d961967</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>CWARD2ADMIN</sys_updated_by>
+                        <sys_updated_on>2018-01-16 06:21:16</sys_updated_on>
+                        <value>3cff2e37dba3830016bef5951d961933</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 01-16-2018 00:21:16">f5507ab7dba3830016bef5951d961965</portal_section>
+                        <sys_created_by>CWARD2ADMIN</sys_created_by>
+                        <sys_created_on>2018-01-16 06:21:16</sys_created_on>
+                        <sys_id>79507ab7dba3830016bef5951d961965</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>CWARD2ADMIN</sys_updated_by>
+                        <sys_updated_on>2018-01-16 06:21:16</sys_updated_on>
+                        <value>37b2a637db63830016bef5951d961982</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>help_text_window</name>
+                        <portal_section display_value="Created 01-16-2018 00:21:16">f5507ab7dba3830016bef5951d961965</portal_section>
+                        <sys_created_by>CWARD2ADMIN</sys_created_by>
+                        <sys_created_on>2018-01-16 06:21:16</sys_created_on>
+                        <sys_id>f1507ab7dba3830016bef5951d961966</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>CWARD2ADMIN</sys_updated_by>
+                        <sys_updated_on>2018-01-16 06:21:16</sys_updated_on>
+                        <value>report_widget_description</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>can_subscribe</name>
+                        <portal_section display_value="Created 01-16-2018 00:21:16">f5507ab7dba3830016bef5951d961965</portal_section>
+                        <sys_created_by>CWARD2ADMIN</sys_created_by>
+                        <sys_created_on>2018-01-16 06:21:16</sys_created_on>
+                        <sys_id>f5507ab7dba3830016bef5951d961966</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>CWARD2ADMIN</sys_updated_by>
+                        <sys_updated_on>2018-01-16 06:21:16</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>report_type</name>
+                        <portal_section display_value="Created 01-16-2018 00:21:16">f5507ab7dba3830016bef5951d961965</portal_section>
+                        <sys_created_by>CWARD2ADMIN</sys_created_by>
+                        <sys_created_on>2018-01-16 06:21:16</sys_created_on>
+                        <sys_id>f9507ab7dba3830016bef5951d961966</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>CWARD2ADMIN</sys_updated_by>
+                        <sys_updated_on>2018-01-16 06:21:16</sys_updated_on>
+                        <value>single_score</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 01-16-2018 00:21:16">f5507ab7dba3830016bef5951d961965</portal_section>
+                        <sys_created_by>CWARD2ADMIN</sys_created_by>
+                        <sys_created_on>2018-01-16 06:21:16</sys_created_on>
+                        <sys_id>fd507ab7dba3830016bef5951d961965</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>CWARD2ADMIN</sys_updated_by>
+                        <sys_updated_on>2018-01-16 06:21:16</sys_updated_on>
+                        <value>com.glide.ui.portal.RenderReport</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 01-16-2018 00:21:16">f5507ab7dba3830016bef5951d961965</portal_section>
+                        <sys_created_by>CWARD2ADMIN</sys_created_by>
+                        <sys_created_on>2018-01-16 06:21:16</sys_created_on>
+                        <sys_id>fd507ab7dba3830016bef5951d961966</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>CWARD2ADMIN</sys_updated_by>
+                        <sys_updated_on>2018-01-16 06:21:16</sys_updated_on>
+                        <value>Water Total - FY16</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+        </related_items_node>
+    </sys_portal_page>
+</record_update>

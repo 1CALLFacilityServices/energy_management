@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element extends="x_uhaa2_uhat_energ_uhat_energy_utility_bills" label="Water Utility Bills" max_length="40" name="x_uhaa2_uhat_energ_water_utility_bills" type="collection">
+        <element label="Additional Charges" max_length="20" name="additional_charges" type="currency"/>
+        <element label="BOD" max_length="20" name="bod" type="currency"/>
+        <element label="Consumption Charge Over Awc" max_length="20" name="consumption_charge_over_awc" type="currency"/>
+        <element label="Consumption Charge Up To Awc" max_length="20" name="consumption_charge_up_to_awc" type="currency"/>
+        <element label="Consumption Over Awc" max_length="40" name="consumption_over_awc" type="integer"/>
+        <element label="Consumption Up To Awc" max_length="40" name="consumption_up_to_awc" type="integer"/>
+        <element label="Customer Charge" max_length="20" name="customer_charge" type="currency"/>
+        <element label="Drainage Fee" max_length="20" name="drainage_fee" type="currency"/>
+        <element label="Fireline Protection" max_length="20" name="fireline_protection" type="currency"/>
+        <element label="Sewer Base Charge" max_length="20" name="sewer_base_charge" type="currency"/>
+        <element label="Sewer Charge" max_length="20" name="sewer_charge" type="currency"/>
+        <element label="Sewer Permits" max_length="20" name="sewer_permits" type="currency"/>
+        <element label="Sewer Usage Units" max_length="40" name="sewer_usage_units" type="integer"/>
+        <element label="Suspended Solids" max_length="20" name="suspended_solids" type="currency"/>
+        <element label="Water Base Charge" max_length="20" name="water_base_charge" type="currency"/>
+    </element>
+</database>
